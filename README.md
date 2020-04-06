@@ -1,2 +1,3 @@
 # covid-datascience
-A data science tutorial through examples of covid-19 related notebooks
+A scrapp of wikipedia tested cases and some plots, nothing special. 
+Updating it soon with more stuff. 
